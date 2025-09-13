@@ -183,11 +183,6 @@ const stylePresets = [
 
 ## 🚀 Deployment
 
-### Lovable Platform
-```bash
-# Deploy via Lovable interface
-# Click Share -> Publish
-```
 
 ### Vercel/Netlify
 ```bash
@@ -205,13 +200,12 @@ npm run build
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+<!-- ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
 
 ## 🙏 Acknowledgments
 
-- **Lovable** - For the amazing development platform
 - **shadcn/ui** - For the beautiful component library
 - **Lucide** - For the consistent icon set
 - **Tailwind CSS** - For the powerful styling framework
