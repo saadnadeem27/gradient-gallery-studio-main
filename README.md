@@ -2,7 +2,7 @@
 
 A professional AI-powered art generation platform built with modern web technologies. Create stunning artwork using advanced AI models with comprehensive customization options.
 
-![AI Art Studio](src/assets/hero-ai-art.jpg)
+
 <!-- Portfolio preview image: place your screenshot at `public/artify-gallery-portfolio.png` -->
 ![Portfolio Preview](public/artify-gallery-portfolio.png)
 ## ✨ Features
